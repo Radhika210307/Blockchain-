@@ -45,3 +45,7 @@ contract Voting {
     }
 }
 ```
+
+
+![image](https://github.com/user-attachments/assets/161a0f74-5992-4532-a580-c62555f2237d)
+
